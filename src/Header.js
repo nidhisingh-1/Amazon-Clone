@@ -5,7 +5,7 @@ import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 
 function Header() {
     return (
-        <><d /><div className="header">
+        <div className="header">
 
             <img
                 className="header__logo"
@@ -47,7 +47,7 @@ function Header() {
                 </div>
 
             </div>
-        </div></>
+        </div>
     )
 }
 
